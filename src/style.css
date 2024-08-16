@@ -1,1 +1,19 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background: rgb(220, 242, 247);
+}
+
+h1 {
+  color: gray;
+}
+
+h2 {
+  color: rgb(171, 168, 168);
+}
+
+p {
+  font-size: larger;
+  font-weight: bold;
+  color: rgb(9, 120, 205);
+}
